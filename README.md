@@ -13,6 +13,12 @@ University of Copenhagen, Department of Computer Science, Machine Learning Secti
 [< 1 min video overview](https://pedrambakh.com/?demo=momos)
 
 ## Changes from Original
+- Added `data/eca.py`: a data generation script for Elementary Cellular Automata (ECA).
+  Generates (X, Y) pairs where X is a 1D state of 64 cells after a 1000-step burn-in period,
+  and Y is the state 48 steps later. Data is saved as `.npy` files, one pair per rule.
+
+  Usage:
+  python data/eca.py --rules 15 30 54 --n 1000
 
 ## Setup
 
