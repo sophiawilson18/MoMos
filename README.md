@@ -1,4 +1,4 @@
-> **Note:** This is a personal fork of the [original MoMos repository](https://github.com/ORIGINAL_OWNER/REPO_NAME) by [Pedram Bakhtiarifard et al.](https://arxiv.org/abs/2602.14896). Changes from the original are listed [below](#changes-from-original) / described in [CHANGES.md].
+> **Note:** This is a personal fork of the [original MoMos repository](https://github.com/ORIGINAL_OWNER/REPO_NAME) by [Pedram Bakhtiarifard et al.](https://arxiv.org/abs/2602.14896). Changes from the original are listed [below](#changes-from-original).
 
 # Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs
 ![MoMos overview](images/momos.png)
