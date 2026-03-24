@@ -2,7 +2,7 @@
 
 # Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs
 ![MoMos overview](images/momos.png)
-This is a fork of the official repository for the paper [*Algorithmic Simplification...*](https://arxiv.org/abs/2602.14896).   <br>
+This is a fork of the official repository for the paper [*Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs*](https://arxiv.org/abs/2602.14896).   <br>
 Original repository: [link](https://github.com/saintslab/MoMos/tree/main). <br>
 
 **Authors:**
