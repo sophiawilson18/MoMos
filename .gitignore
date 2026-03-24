@@ -22,7 +22,7 @@ wandb/
 wandb_artifacts/
 
 # Local data and experiment artifacts
-data/
+output/
 logs/
 plots/
 runs.csv
@@ -34,3 +34,4 @@ runs.csv
 # Optional large model formats
 *.pth
 *.ckpt
+*.pyc
